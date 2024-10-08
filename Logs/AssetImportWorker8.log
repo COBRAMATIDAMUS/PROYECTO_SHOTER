@@ -1,0 +1,447 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.22f1 (887be4894c44) revision 8944612'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'es' Physical Memory: 16223 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker8
+-projectPath
+C:/Users/LAB01-14/ProyectoJuegoShoteer
+-logFile
+Logs/AssetImportWorker8.log
+-srvPort
+51090
+Successfully changed project path to: C:/Users/LAB01-14/ProyectoJuegoShoteer
+C:/Users/LAB01-14/ProyectoJuegoShoteer
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [18304] Host "[IP] 100.0.0.38 [Port] 0 [Flags] 2 [Guid] 817253424 [EditorId] 817253424 [Version] 1048832 [Id] WindowsEditor(7,LAB01-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [18304] Host "[IP] 100.0.0.38 [Port] 0 [Flags] 2 [Guid] 817253424 [EditorId] 817253424 [Version] 1048832 [Id] WindowsEditor(7,LAB01-14) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
+Refreshing native plugins compatible for Editor in 12.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.22f1 (887be4894c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/LAB01-14/ProyectoJuegoShoteer/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   31.0.15.5212
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016899 seconds.
+- Loaded All Assemblies, in  0.493 seconds
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+Native extension for iOS target not found
+Native extension for Android target not found
+[usbmuxd] Listen thread started
+Android Extension - Scanning For ADB Devices 406 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.900 seconds
+Domain Reload Profiling: 1391ms
+	BeginReloadAssembly (148ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (215ms)
+		LoadAssemblies (146ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (211ms)
+			TypeCache.Refresh (210ms)
+				TypeCache.ScanAssembly (195ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (900ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (806ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (613ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (137ms)
+			ProcessInitializeOnLoadMethodAttributes (49ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.734 seconds
+Refreshing native plugins compatible for Editor in 4.68 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.728 seconds
+Domain Reload Profiling: 1458ms
+	BeginReloadAssembly (158ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (478ms)
+		LoadAssemblies (365ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (208ms)
+			TypeCache.Refresh (173ms)
+				TypeCache.ScanAssembly (155ms)
+			ScanForSourceGeneratedMonoScriptInfo (22ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (728ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (536ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (40ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (78ms)
+			ProcessInitializeOnLoadAttributes (328ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 5.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4935 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 65 unused Assets / (349.8 KB). Loaded Objects now: 5396.
+Memory consumption went from 208.5 MB to 208.2 MB.
+Total: 3.832800 ms (FindLiveObjects: 0.733300 ms CreateObjectMapping: 0.196900 ms MarkObjects: 2.716600 ms  DeleteObjects: 0.185000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/Readme.cs: 0243834a66c4d02c43eccfe3f1926748 -> 5aedf578fb2663036982fb7b05aaf325
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ReadmeEditor.cs: f90a78a692f36537585f0ffe30196b53 -> ff7ced1e41c1b99ddf5dfefc88f6bd50
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2850.451091 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Walls/Wall_2m.prefab
+  artifactKey: Guid(5ffaa43e5fc714343940d5e26450d885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Walls/Wall_2m.prefab using Guid(5ffaa43e5fc714343940d5e26450d885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e255728aadc1a04db1bce7442776510') in 0.334042 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 2.487489 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Corner_01_B.prefab
+  artifactKey: Guid(9e035c055a4d74f4f85477a73227a785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Corner_01_B.prefab using Guid(9e035c055a4d74f4f85477a73227a785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9622157e98f021d22a0595a731fdaf') in 0.059799 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_05_B.prefab
+  artifactKey: Guid(f50e46bede2c1d04aa26c3e249cc8f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_05_B.prefab using Guid(f50e46bede2c1d04aa26c3e249cc8f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503216b0f7bb6c04bb8302e43d7c9007') in 0.029485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+RoomStairs_01_D.prefab
+  artifactKey: Guid(f849e415d5af1bd45a30e2db02725b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+RoomStairs_01_D.prefab using Guid(f849e415d5af1bd45a30e2db02725b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1247d0a5c175c600096912d4fb1db282') in 0.031959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Side_02_A.prefab
+  artifactKey: Guid(d337ffa2f6484cd488bb9e0871f1868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Side_02_A.prefab using Guid(d337ffa2f6484cd488bb9e0871f1868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61873e29f2c6e8612f7a6b29bbda835f') in 0.031626 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_01_C.prefab
+  artifactKey: Guid(eefe460f4eb17084787837fc4b22fb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_01_C.prefab using Guid(eefe460f4eb17084787837fc4b22fb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da391310cc9cd2e67a6fbcf53914c1c3') in 0.036136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_04_C.prefab
+  artifactKey: Guid(14c09d9149ad2fe4d8362dc0d7ffe5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_04_C.prefab using Guid(14c09d9149ad2fe4d8362dc0d7ffe5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7c5a77d91ad0fba7fd0f6f96b1f1cb') in 0.029432 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_03_C.prefab
+  artifactKey: Guid(eeba9d6c1c02ed148b20923077179a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_03_C.prefab using Guid(eeba9d6c1c02ed148b20923077179a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8988cf6d02ff0eac718d0101cc454195') in 0.023594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_01_B.prefab
+  artifactKey: Guid(194433cb7c10c944f8826fa04f42a9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_01_B.prefab using Guid(194433cb7c10c944f8826fa04f42a9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13fe0987cc7c52f22338028596e967c7') in 0.027787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Side_01_A.prefab
+  artifactKey: Guid(fd4ab0bde46686149a8239c5469fbc69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Side_01_A.prefab using Guid(fd4ab0bde46686149a8239c5469fbc69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c6ffb59b00dea4e7645c7abe6643f0') in 0.037111 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_02_A.prefab
+  artifactKey: Guid(c9cce6dbcf9788345b1ae4a8bcb3c417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_02_A.prefab using Guid(c9cce6dbcf9788345b1ae4a8bcb3c417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fcf7504d110ecaef522230cdc6a9893') in 0.027078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_06_A.prefab
+  artifactKey: Guid(24f9e81dca200d14d9f12cc1fe31648e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_06_A.prefab using Guid(24f9e81dca200d14d9f12cc1fe31648e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c96c9ff516185d6c726626536368a6') in 0.041367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+RoomStairs_01_B.prefab
+  artifactKey: Guid(31c1f907f1c1fba4bacd2044d8f9db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+RoomStairs_01_B.prefab using Guid(31c1f907f1c1fba4bacd2044d8f9db64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a714954543d30effd42ebfb8331dd396') in 0.029542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicSide_01_C.prefab
+  artifactKey: Guid(25c12ab16ba5d404192d32c7ff026a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicSide_01_C.prefab using Guid(25c12ab16ba5d404192d32c7ff026a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adddf259c7ceb8b43ea04b8f77456cb4') in 0.029185 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_06_C.prefab
+  artifactKey: Guid(41050271504953940899a8a51457fcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_BasicCorner_06_C.prefab using Guid(41050271504953940899a8a51457fcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113ba76a58565b1ae0ae542cda96f4ee') in 0.026399 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Side_01_C.prefab
+  artifactKey: Guid(ad3b541cf79f215488f0c8c1ba4db49a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Side_01_C.prefab using Guid(ad3b541cf79f215488f0c8c1ba4db49a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84bd405e4e1cab42f0150f944412925') in 0.032788 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Room_HoleFloor_01_A.prefab
+  artifactKey: Guid(3ce53481ae847db4c94af42188d1a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Room_HoleFloor_01_A.prefab using Guid(3ce53481ae847db4c94af42188d1a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de187043a19246325093c4e5fb592e22') in 0.047128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 30
+========================================================================
+Received Import Request.
+  Time since last request: 0.001894 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Side_02_D.prefab
+  artifactKey: Guid(dca34f98bfb644241a8fe233ad83cdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_+Side_02_D.prefab using Guid(dca34f98bfb644241a8fe233ad83cdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be60ac82ba768ca29a7d44f4a5613bf') in 0.025203 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 4.868797 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Debris/Debri_Debris_Stack_2.prefab
+  artifactKey: Guid(6b90958a986bf934f9b62f33bfe2a358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Debris/Debri_Debris_Stack_2.prefab using Guid(6b90958a986bf934f9b62f33bfe2a358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7461eef109b9fe9a8adfcd9cdaf2498') in 0.024806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Debris/Debri_WallDebris_4.prefab
+  artifactKey: Guid(2556c8342dac94449b20266bdbee2c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Debris/Debri_WallDebris_4.prefab using Guid(2556c8342dac94449b20266bdbee2c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3258651f1b20ec455e7041479790d804') in 0.024620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 4.765817 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+_04_A.prefab
+  artifactKey: Guid(143deb2f7577b5148944e1e701e6fe9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+_04_A.prefab using Guid(143deb2f7577b5148944e1e701e6fe9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d2c5b5a4c3d42b6e04ea448ac6942a') in 0.033140 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+Side_01_C.prefab
+  artifactKey: Guid(9ada2049428545f4cb130917db2ff95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+Side_01_C.prefab using Guid(9ada2049428545f4cb130917db2ff95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa8fcc5d3cb4e5258c7afedf803523e') in 0.053390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TCorner_04_D.prefab
+  artifactKey: Guid(c00c97e102a64d64d9f8789fc5ea04f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TCorner_04_D.prefab using Guid(c00c97e102a64d64d9f8789fc5ea04f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c0599ef589c7644ffeeb4f8b46fc77') in 0.035460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TCorner_03_D.prefab
+  artifactKey: Guid(f445f58c52ec2ba46ac2f1e94bde4748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TCorner_03_D.prefab using Guid(f445f58c52ec2ba46ac2f1e94bde4748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22af00c0c04ce1c3671dba9220498c16') in 0.026435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+Side_04_A.prefab
+  artifactKey: Guid(ca5a7e738a07d924baa911fdbf7ff63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+Side_04_A.prefab using Guid(ca5a7e738a07d924baa911fdbf7ff63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c241cb307b5ee533be8d78676f5ae1ad') in 0.028332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_THalls_01_D.prefab
+  artifactKey: Guid(7eb7d757dc5da184d80827139b713253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_THalls_01_D.prefab using Guid(7eb7d757dc5da184d80827139b713253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd59182c974cf12c785e0e89e3288e5') in 0.026133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+Side_02_A.prefab
+  artifactKey: Guid(eff7c5c799b12eb4a83f9248590b9a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+Side_02_A.prefab using Guid(eff7c5c799b12eb4a83f9248590b9a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b77a612038eb8bddd6b78f3b525a255') in 0.032021 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TStairs_01_A.prefab
+  artifactKey: Guid(efa07b6aa72511747a3e10abad33c582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TStairs_01_A.prefab using Guid(efa07b6aa72511747a3e10abad33c582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd81a479e8b8f9681f13e6c804bf2e3d') in 0.031472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TCorner_02_A.prefab
+  artifactKey: Guid(eabfbfb81d90cf44cb1e81637fcb8c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TCorner_02_A.prefab using Guid(eabfbfb81d90cf44cb1e81637fcb8c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b986d2c114e002d21b9463e8130d1e6f') in 0.032054 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+Side_04_C.prefab
+  artifactKey: Guid(2a9b2166e2e8152408c89ddb9713e9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_T+Side_04_C.prefab using Guid(2a9b2166e2e8152408c89ddb9713e9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd830655269b5a4271a2f79568f42e006') in 0.024362 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.009368 seconds.
+  path: Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TStairs_01_B.prefab
+  artifactKey: Guid(1ea24d0b9f205b04781fdc09d3f34c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anbiente/BackRoomsNivel0/BackroomsLikeAsset/prefab/Tiles/Tiles_TStairs_01_B.prefab using Guid(1ea24d0b9f205b04781fdc09d3f34c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4029504e3d2052a6a18d928d5fc9ab9') in 0.046387 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
